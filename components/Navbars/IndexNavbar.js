@@ -5,20 +5,20 @@ import React from "react";
 
 const pages = [
   {
-    href: "/",
+    href: "#Home",
     name: "Home",
   },
   {
-    href: "/services",
+    href: "#Services",
     name: "Services",
+  },
+  {
+    href: "#buildingcertification",
+    name: "Building Certification",
   },
   {
     href: "/zeronetenergy",
     name: "Zero Net Energy",
-  },
-  {
-    href: "/buildingcertification",
-    name: "Building Certification",
   },
   {
     href: "/aboutus",
